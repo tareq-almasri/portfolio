@@ -10614,7 +10614,7 @@ main {
 }
 
 .line {
-  background-color: #f8cd56;
+  background-color: #FBB03C;
   width: 4px;
   height: 0;
   position: absolute;
@@ -10778,7 +10778,7 @@ main {
 }
 
 .child {
-  background-color: #f5c34d;
+  background-color: #FBB03C;
   position: absolute;
   left: 0;
   right: 45%;
@@ -10789,9 +10789,8 @@ main {
 }
 
 .bq {
-  background-color: #f5c34d;
+  background-color: #FBB03C;
   padding: 40px;
-  color: white;
   height: 150px;
 }
 
@@ -10805,7 +10804,7 @@ button {
   font-size: 2rem;
   text-align: center;
   text-shadow: 2px 2px 2px #955b23;
-  color: #f5dc4d;
+  color: #FBB03C;
 }
 
 .comma {
